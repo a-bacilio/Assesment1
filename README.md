@@ -11,4 +11,7 @@
 - Fake Store API
 - Styled Components
 - gh pages deploy
-- https:\\a-bacilio.github.io\Asessment1
+
+Se puede ver en: 
+
+https:\\\\a-bacilio.github.io\Asessment1
