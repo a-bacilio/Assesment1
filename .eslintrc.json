@@ -19,6 +19,10 @@
         "react"
     ],
     "rules": {
-        "func-names":[0,"always"]
+        "func-names":[0,"always"],
+        "react/function-component-definition":[1, {
+            "namedComponents": "arrow-function",
+            "unnamedComponents":  "arrow-function"
+          }]
     }
 }
