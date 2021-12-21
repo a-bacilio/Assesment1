@@ -10,5 +10,5 @@
 - ESLint
 - Fake Store API
 - Styled Components
-- gh pages
+- gh pages deploy
 - https:\\a-bacilio.github.io\Asessment1
